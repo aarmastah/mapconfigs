@@ -6,6 +6,6 @@ ClearGameEventCallbacks();
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "kothtimer_3min_ghostfort.nut",
+    vscripts = "kothtimer_3min.nut",
     thinkfunction = "Think"
 });
