@@ -1,0 +1,4 @@
+ctf_foundry
+ctf_hellfire
+ctf_gorge
+ctf_thundermountain
