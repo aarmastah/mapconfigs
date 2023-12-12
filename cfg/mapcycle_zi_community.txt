@@ -1,8 +1,3 @@
-zi_atoll
-zi_murky
-zi_sanitarium
-zi_woods
-zi_devastation_final1
 workshop/zi_hallow.ugc3034181388
 workshop/zi_facility.ugc3030579191
 workshop/zi_stronghold.ugc3031098958
