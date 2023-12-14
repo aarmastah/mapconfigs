@@ -8,3 +8,5 @@ vsh_distillery
 vsh_nucleus
 vsh_skirmish
 vsh_tinyrock
+koth_probed
+cp_snowplow
