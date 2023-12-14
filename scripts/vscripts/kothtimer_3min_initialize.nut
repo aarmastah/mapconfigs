@@ -1,5 +1,5 @@
 //Force 3-Minute KoTH Timer Script
-//Primarily written with guidance from LizardOfOz
+//Written with guidance from LizardOfOz
 //Execute with the command "script_execute kothtimer_3min_initialize.nut"
 
 ClearGameEventCallbacks();
