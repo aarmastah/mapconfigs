@@ -9,13 +9,10 @@ pl_frostcliff
 cp_frostwatch
 ctf_frosty
 pl_rumford_event
-cp_brew
 cp_carrier
 ctf_haarp
 ctf_turbine_winter
 koth_krampus
 koth_snowtower
 pd_galleria
-pl_camber
-pl_emerge
 plr_hacksaw

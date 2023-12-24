@@ -10,3 +10,4 @@ cp_hardwood_final
 cp_mercenarypark
 cp_mountainlab
 cp_sulfur
+cp_brew
