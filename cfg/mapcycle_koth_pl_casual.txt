@@ -30,3 +30,5 @@ pl_phoenix
 pl_snowycoast
 pl_thundermountain
 pl_venice
+pl_camber
+pl_emerge
