@@ -78,7 +78,6 @@ koth_sharkbay
 koth_suijin
 koth_viaduct
 sd_doomsday
-rd_asteroid
 ctf_foundry
 ctf_gorge
 ctf_hellfire
