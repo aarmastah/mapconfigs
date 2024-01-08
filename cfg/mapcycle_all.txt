@@ -44,6 +44,7 @@ pl_badwater
 pl_barnblitz
 pl_borneo
 pl_breadspace
+pl_cactuscanyon
 pl_camber
 pl_cashworks
 pl_emerge
@@ -62,6 +63,14 @@ plr_bananabay
 plr_hightower
 plr_pipeline
 plr_nightfall_final
+arena_granary
+arena_lumberyard
+arena_nucleus
+arena_offblast_final
+arena_ravine
+arena_sawmill
+arena_watchtower
+arena_well
 koth_badlands
 koth_brazil
 koth_cascade
