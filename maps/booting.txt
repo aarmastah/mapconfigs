@@ -1,0 +1,3 @@
+"booting" is a map that is intended to be used to start the server and immediately be switched out to another map. For example, the server is started with the "+map booting" on the command line, but "booting.cfg" has "changelevel pl_badwater" on the very first line. This immediate level swap has the benefit of giving the server time for SourceTV and/or the Replay system to activate, AND allows the server's "starting map" to be changed without needing to modify the startup script.
+
+The map "itemtest" could also be used for this purpose, but some like to use it for strange item leveling, so I opted to create this map instead.
