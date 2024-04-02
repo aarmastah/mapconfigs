@@ -1,6 +1,6 @@
 //Remove Powerhouse Timer Script
 //Written with guidance from LizardOfOz
-//Execute with the command "script_execute powerhouse_notimer_initialize.nut"
+//Execute with the command "script_execute roundtimer_disable_initialize.nut"
 
 ClearGameEventCallbacks();
 
