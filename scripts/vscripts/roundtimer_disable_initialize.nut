@@ -6,6 +6,6 @@ ClearGameEventCallbacks();
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "powerhouse_notimer.nut",
+    vscripts = "roundtimer_disable.nut",
     thinkfunction = "Think"
 });
