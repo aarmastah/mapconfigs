@@ -1,4 +1,4 @@
-//Remove Powerhouse Timer Script
+//Disable Round Timer Script
 //Written with guidance from LizardOfOz
 //Execute with the command "script_execute roundtimer_disable_initialize.nut"
 
