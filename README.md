@@ -1,7 +1,7 @@
 # TF2 Map Configs
 Individual map config files that mimic the rules present in Casual Mode. Depending on each map, the server will play to either "best of 3" (King of the Hill) or "2 rounds" (Payload or Attack/Defend etc). 
 
-There are slight VScript-powered adjustments present as well that can easily be enabled if you wish:
+There are VScript-powered adjustments present as well that can easily be enabled if you wish:
 
 - KotH maps with a timer longer than 3 minutes can shortened to 3 minutes by uncommenting the line *script_execute kothtimer_3min.nut* from each applicable map's config file.
 
