@@ -26,7 +26,6 @@ koth_sawmill
 koth_sharkbay
 koth_suijin
 koth_viaduct
-koth_probed
 
 pl_badwater
 pl_borneo
