@@ -8,3 +8,7 @@ cp_sulfur
 cp_hardwood_final
 ctf_pelican_peak
 pd_selbyen
+vsh_distillery
+vsh_nucleus
+vsh_tinyrock
+vsh_skirmish
