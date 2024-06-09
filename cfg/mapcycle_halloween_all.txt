@@ -22,6 +22,12 @@ pl_bloodwater
 pl_hasslecastle
 koth_megalo
 koth_undergrove_event
+cp_ambush_event
+pd_farmageddon
+arena_lumberyard_event
+koth_los_muertos
+koth_synthetic_event
+pl_terror_event
 plr_hacksaw_event
 ctf_crasher
 pl_sludgepit_event
