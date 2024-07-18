@@ -47,6 +47,8 @@ koth_sawmill
 koth_sharkbay
 koth_suijin
 koth_viaduct
+koth_probed
+koth_snowtower
 
 pl_badwater
 pl_borneo
@@ -66,3 +68,4 @@ pl_thundermountain
 pl_venice
 pl_camber
 pl_emerge
+pl_rumford
