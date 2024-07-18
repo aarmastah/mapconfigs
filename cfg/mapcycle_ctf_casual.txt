@@ -5,3 +5,6 @@ ctf_well
 ctf_doublecross
 ctf_pelican_peak
 ctf_turbine
+ctf_applejack
+ctf_haarp
+ctf_2fort_invasion

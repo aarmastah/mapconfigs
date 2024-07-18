@@ -11,6 +11,8 @@ cp_mercenarypark
 cp_mountainlab
 cp_sulfur
 cp_brew
+cp_hadal
+cp_overgrown
 
 cp_5gorge
 cp_coldfront

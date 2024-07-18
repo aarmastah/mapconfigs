@@ -151,3 +151,5 @@ koth_krampus
 koth_snowtower
 pd_galleria
 plr_hacksaw
+cp_hadal
+cp_overgrown

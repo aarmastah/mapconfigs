@@ -12,3 +12,5 @@ koth_sawmill
 koth_sharkbay
 koth_suijin
 koth_viaduct
+koth_snowtower
+koth_probed
