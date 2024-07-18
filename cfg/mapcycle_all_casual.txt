@@ -6,6 +6,8 @@ ctf_pelican_peak
 ctf_sawmill
 ctf_turbine
 ctf_well
+ctf_frosty
+ctf_haarp
 cp_5gorge
 cp_badlands
 cp_coldfront
@@ -77,6 +79,8 @@ koth_sawmill
 koth_sharkbay
 koth_suijin
 koth_viaduct
+koth_probed
+koth_snowtower
 sd_doomsday
 ctf_foundry
 ctf_gorge
