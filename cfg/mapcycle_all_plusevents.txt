@@ -63,6 +63,7 @@ plr_bananabay
 plr_hightower
 plr_pipeline
 plr_nightfall_final
+plr_hacksaw
 arena_granary
 arena_lumberyard
 arena_nucleus
