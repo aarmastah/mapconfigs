@@ -13,3 +13,4 @@ cp_sulfur
 cp_brew
 cp_hadal
 cp_overgrown
+ctf_haarp
