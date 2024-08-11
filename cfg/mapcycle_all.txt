@@ -101,6 +101,13 @@ vsh_distillery
 vsh_nucleus
 vsh_skirmish
 vsh_tinyrock
-
 cp_hadal
 cp_overgrown
+ctf_applejack
+pd_atom_smash
+cp_burghausen
+koth_cachoeira
+cp_canaveral_5cp
+pl_embargo
+koth_megaton
+pl_odyssey
