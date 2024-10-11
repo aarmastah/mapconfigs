@@ -46,3 +46,10 @@ zi_devastation_final1
 zi_murky
 zi_sanitarium
 zi_woods
+koth_toxic
+cp_darkmarsh
+cp_freaky_fair
+tow_dynamite
+pd_circus
+vsh_outburst
+zi_blazehattan
