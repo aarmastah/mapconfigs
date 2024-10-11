@@ -3,3 +3,4 @@ zi_devastation_final1
 zi_murky
 zi_sanitarium
 zi_woods
+zi_blazehattan
