@@ -11,7 +11,7 @@ There are optional VScript-powered adjustments present as well that can easily b
 
 - ctf_helltrain_event will be set to use spells upon load. To restore the original map behavior, comment the line *script DoEntFire("tf_logic_holiday", "HalloweenSetUsingSpells", "1", 0, null, null);* in *ctf_helltrain_event.cfg*.
 
-- Halloween maps will disable Gargoyles by default (since they do not track souls on community servers). To restore this behavior, uncomment the line *script Convars.SetValue("tf_halloween_gift_lifetime", "0");* in each map's config file.
+- Halloween maps will disable Gargoyles by default (since they do not track souls on community servers). To restore this behavior, uncomment the lines *script Convars.SetValue("tf_halloween_gift_lifetime", "0");* and *script_execute gargoyles_disable_initialize.nut* in each map's config file.
 
 [Download the latest files by clicking here.](https://github.com/aarmastah/mapconfigs/archive/refs/heads/main.zip) Next, extract the *mapconfigs-main* folder to your *tf/custom* folder. You may also turn this folder into a VPK file if you wish, but this comes with the drawback of not being able to easily modify the config files.
 
