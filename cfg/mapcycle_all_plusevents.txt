@@ -174,3 +174,10 @@ cp_canaveral_5cp
 pl_embargo
 koth_megaton
 pl_odyssey
+koth_toxic
+cp_darkmarsh
+cp_freaky_fair
+tow_dynamite
+pd_circus
+vsh_outburst
+zi_blazehattan
