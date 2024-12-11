@@ -1,0 +1,6 @@
+koth_overcast_final
+cp_fortezza
+ctf_penguin_peak
+pl_patagonia
+plr_cutter
+vsh_maul
