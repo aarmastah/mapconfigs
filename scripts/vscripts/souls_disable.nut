@@ -4,8 +4,6 @@
 
 //Based on an earlier version of "No Crumpkins" by LizardOfOz
 
-ClearGameEventCallbacks();
-
 GetPropInt <- ::NetProps.GetPropInt.bindenv(::NetProps);
 FindByClassname <- ::Entities.FindByClassname.bindenv(::Entities);
 
