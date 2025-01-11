@@ -4,6 +4,7 @@ ctf_sawmill
 ctf_well
 ctf_doublecross
 ctf_pelican_peak
+ctf_penguin_peak
 ctf_turbine
 ctf_applejack
 ctf_2fort_invasion
