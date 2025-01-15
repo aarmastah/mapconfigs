@@ -13,6 +13,7 @@ koth_sharkbay
 koth_suijin
 koth_viaduct
 koth_probed
+koth_overcast_final
 
 pl_badwater
 pl_borneo

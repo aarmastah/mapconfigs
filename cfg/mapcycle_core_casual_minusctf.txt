@@ -14,6 +14,7 @@ cp_brew
 cp_hadal
 cp_overgrown
 ctf_haarp
+cp_fortezza
 
 cp_5gorge
 cp_coldfront
@@ -50,6 +51,7 @@ koth_suijin
 koth_viaduct
 koth_probed
 koth_snowtower
+koth_overcast_final
 
 pl_badwater
 pl_borneo

@@ -14,3 +14,4 @@ koth_suijin
 koth_viaduct
 koth_snowtower
 koth_probed
+koth_overcast_final
