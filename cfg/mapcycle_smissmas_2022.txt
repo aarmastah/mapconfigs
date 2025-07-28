@@ -1,6 +1,0 @@
-cp_gravelpit_snowy
-pl_frostcliff
-cp_frostwatch
-ctf_frosty
-pl_rumford_event
-

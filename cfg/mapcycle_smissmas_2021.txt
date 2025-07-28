@@ -1,7 +1,0 @@
-cp_altitude
-pl_breadspace
-koth_cascade
-pl_chilly
-ctf_doublecross_snowy
-pl_coal_event
-

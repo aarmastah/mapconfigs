@@ -1,3 +1,0 @@
-koth_slaughter_event
-pl_precipice_event_final
-

@@ -1,5 +1,0 @@
-koth_megalo
-pl_bloodwater
-pl_hasslecastle
-koth_undergrove_event
-
