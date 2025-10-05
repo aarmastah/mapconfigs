@@ -3,7 +3,7 @@ Individual map config files that mimic the rules present in Casual Mode. Dependi
 
 There are optional VScript-powered adjustments present as well that can easily be enabled/disabled if you wish:
 
-- Halloween Souls (particles) can be disabled by adding the line *script_execute disablesouls/init.nut* to your server's main *server.cfg* file.
+- Halloween Souls (particles) can be disabled by adding the line *script_execute disablesouls/init.nut* to your server's main *server.cfg* file. Alternatively, use [LizardOfOz's No Souls and Gargoyles script.](https://tf2maps.net/downloads/no-souls-and-gargoyles.18165/updates#resource-update-52123)
 
 - KotH maps with a timer longer than 3 minutes can shortened to 3 minutes by uncommenting the line *script_execute kothtimer3min/init.nut* from each applicable map's config file.
 
