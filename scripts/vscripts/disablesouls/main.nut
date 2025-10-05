@@ -1,6 +1,6 @@
 //Disable Souls Script
 //Written with guidance from LizardOfOz
-//Execute with the command "script_execute souls_disable_initialize.nut"
+//Execute with the command "script_execute disablesouls/init.nut"
 
 //Based on an earlier version of "No Crumpkins" by LizardOfOz
 

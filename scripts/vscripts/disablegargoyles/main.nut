@@ -1,6 +1,6 @@
 //Disable Gargoyles Script
 //Written with guidance from LizardOfOz
-//Execute with the command "script_execute gargoyles_disable_initialize.nut"
+//Execute with the command "script_execute disablegargoyles/init.nut"
 
 function OnGameEvent_teamplay_round_start(params)
 {
