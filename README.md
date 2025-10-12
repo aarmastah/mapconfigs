@@ -9,7 +9,7 @@ There are optional VScript-powered adjustments present as well that can easily b
 
 - cp_powerhouse's round timer can be disabled by uncommenting the line *script_execute disableroundtimer/init.nut* in the map's config file.
 
-- ctf_helltrain_event will be set to use spells upon load, something the map erroneously does not do by default. To restore the original map behavior, comment the line *script DoEntFire("tf_logic_holiday", "HalloweenSetUsingSpells", "1", 0, null, null);* in *ctf_helltrain_event.cfg*.
+- ctf_helltrain_event and ctf_doublecross_event will be set to use spells upon load, which the maps erroneously do not by default. To restore the original behavior, comment the line *script DoEntFire("tf_logic_holiday", "HalloweenSetUsingSpells", "1", 0, null, null);* in their config files.
 
 [Download the latest files by clicking here.](https://github.com/aarmastah/mapconfigs/archive/refs/heads/main.zip) Next, extract the *mapconfigs-main* folder to your *tf/custom* folder. You may also turn this folder into a VPK file if you wish, but this comes with the drawback of not being able to easily modify the config files.
 
