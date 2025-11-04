@@ -4,5 +4,6 @@
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "disableroundtimer/main.nut"
+    vscripts = "disableroundtimer/main.nut",
+	targetname = "disableroundtimer"
 });

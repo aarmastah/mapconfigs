@@ -6,5 +6,6 @@ Convars.SetValue("tf_halloween_gift_lifetime", "0");
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "disablegargoyles/main.nut"
+    vscripts = "disablegargoyles/main.nut",
+	targetname = "disablegargoyles"
 });

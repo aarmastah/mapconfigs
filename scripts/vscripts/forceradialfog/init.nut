@@ -4,5 +4,6 @@
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "forceradialfog/main.nut"
+    vscripts = "forceradialfog/main.nut",
+	targetname = "forceradialfog"
 });

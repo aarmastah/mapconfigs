@@ -5,5 +5,6 @@
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
     vscripts = "disablesouls/main.nut",
-    thinkfunction = "SoulThink"
+    thinkfunction = "SoulThink",
+	targetname = "disablesouls"
 });

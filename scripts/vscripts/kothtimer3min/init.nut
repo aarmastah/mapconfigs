@@ -4,5 +4,6 @@
 
 // Spawn an entity to run the main script
 SpawnEntityFromTable("info_target", {
-    vscripts = "kothtimer3min/main.nut"
+    vscripts = "kothtimer3min/main.nut",
+	targetname = "kothtimer3min"
 });
